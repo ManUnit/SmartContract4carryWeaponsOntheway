@@ -1,4 +1,9 @@
-pragma solidity ^0.4.20 ;
+pragma solidity ^0.4.24 ;
+
+/*
+Copyright : Anan Paenthongkham
+Email : hs1gab@gmail.com
+*/
 
 contract weapons_move_ontheway {
     
