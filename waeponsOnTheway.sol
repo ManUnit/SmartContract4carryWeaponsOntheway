@@ -62,11 +62,15 @@ contract weapons_move_ontheway {
         counts[msg.sender] += 1 ; 
     }
     
+    
+    function oneTheWayGPSUpdate (  string _lat , string _long , uint _onethewayID   ) {
+    
     /*
     
     
     more code contact  email : hs1gab@gmail.com
     
     */
+    }
     
 }
